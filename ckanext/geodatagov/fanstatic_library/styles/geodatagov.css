@@ -121,8 +121,6 @@ a {
 .masthead .container .top {
   *zoom: 1;
   position: relative;
-  border-right: 1px solid #ccc;
-  border-left: 1px solid #ccc;
   background: #f4f1de;
   height: 30px;
 }
