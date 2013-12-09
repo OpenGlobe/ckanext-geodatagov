@@ -370,18 +370,14 @@ a {
 }
 .masthead .container .top-nav .secondary {
   background-color: #8eb57f; /* green */
-  /* background-color: #d6c6b6; light brown */
-  font-family: 'Georgia';
-  height: 50px;
   line-height: 50px;
-  color: #033162; /* deep blue */
-  text-transform: uppercase;
+  color: #ffe689; /* yellow */
 }
 .masthead .container .top-nav .secondary span {
   display: block;
-  padding-left: 20px;
-  padding-right: 20px;
-  font-size: 21px;
+  padding: 7px 20px 7px 20px;
+  font-size: 1.1em;
+  line-height: 1.3em;
 }
 .flash-messages {
   padding: 10px;
