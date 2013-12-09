@@ -151,9 +151,10 @@ a {
 .masthead .container .logo a {
   display: block;
   float: left;
-  height: 153px;
-  background-image: url("../images/doi_data_logo.png");
-  width: 500px;
+  height: 105px;
+  background-image: url("../images/doi_data_logo_sm.png");
+  background-repeat: no-repeat;
+  width: 400px;
 }
 .masthead .container .logo a span {
   display: none;
