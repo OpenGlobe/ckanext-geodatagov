@@ -85,10 +85,10 @@ a {
 }
 .btn-primary {
   color: white !important;
-  background: #284a7a !important;
+  background: #8eb57f !important; /* light green */
 }
 .btn-primary:hover {
-  background: #1b3354 !important;
+  background: #44703c !important; /* dark green */
 }
 .faded {
   color: #777;
