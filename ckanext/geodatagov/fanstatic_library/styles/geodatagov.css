@@ -895,6 +895,9 @@ input.search-new{
     top:1px;
     right:2px;
 }
+.search-giant input {
+	background-color: #fff4c9; /* pale yellow */
+}
 body{font-size:87.5%;}
 #dataset-map-attribution div a{text-decoration:underline;}
 .empty{color:#595959;}
