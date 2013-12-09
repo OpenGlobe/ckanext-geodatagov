@@ -373,6 +373,7 @@ a {
   background-color: #8eb57f; /* green */
   line-height: 50px;
   color: #ffdE7a; /* yellow */ 
+  font-weight: 500;
 }
 .masthead .container .top-nav .secondary span {
   display: block;
